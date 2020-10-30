@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/44811/Desktop/lab/bigdata_lab3/mttree.c
+mttree.h
+C:/Users/44811/Desktop/lab/bigdata_lab3/mttree.h
+queue.h
+C:/Users/44811/Desktop/lab/bigdata_lab3/queue.h
+
+C:/Users/44811/Desktop/lab/bigdata_lab3/mttree.h
+stdio.h
+-
+stdlib.h
+-
+io.h
+-
+string.h
+-
+dirent.h
+-
+sha256.h
+C:/Users/44811/Desktop/lab/bigdata_lab3/sha256.h
+
+C:/Users/44811/Desktop/lab/bigdata_lab3/queue.h
+
+C:/Users/44811/Desktop/lab/bigdata_lab3/sha256.h
+stddef.h
+-
+
